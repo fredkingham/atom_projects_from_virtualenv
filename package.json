@@ -25,11 +25,8 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "cson": "~1.6.1",
     "lodash": "~2.4.1",
     "q": "~1.0.1",
-    "js2coffee": "~0.3.3",
-    "season": "~2.0.0",
-    "cson-safe": "~0.1.1"
+    "season": "~2.0.0"
   }
 }
